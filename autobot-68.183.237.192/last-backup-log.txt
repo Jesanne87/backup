@@ -1,3 +1,0 @@
-User         : autobot
-IP           : 68.183.237.192
-Last Backup  : 2026-06-17 21:29:15
